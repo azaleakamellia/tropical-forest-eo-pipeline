@@ -1,9 +1,9 @@
 # 🌴 Sarawak Tropical Forest & Land Cover Classifier
 
 **🚀 Live Interactive Web App:** [Launch the App](https://ee-azaleakamellia.projects.earthengine.app/view/sarawak-landcover-classifier).  
-**View Source Code:** [Open in Google Earth Engine](https://code.earthengine.google.com/625d06af21678d0e77f3a5afc1824622) 
+**View Source Code:** [Open in Google Earth Engine](https://code.earthengine.google.com/625d06af21678d0e77f3a5afc1824622) <br>
 **Author:** Azalea Kamellia Abdullah, Gs.  
-**Domain:** Applied Vegetation Remote Sensing, Tropical Land Cover Classification, Natural Capital Accounting  
+**Domain:** `Applied Vegetation Remote Sensing`, `Tropical Land Cover Classification`, `Natural Capital Accounting`  
 
 ##  Overview
 This repository contains the methodology and source code for an interactive, cloud-based land cover classification tool tailored for tropical environments like Sarawak, Malaysia. Built entirely on the **Google Earth Engine (GEE)** platform, this web application allows environmental consultants, researchers, and ESG auditors to perform on-the-fly, multi-class land cover classification without requiring local computational resources.
